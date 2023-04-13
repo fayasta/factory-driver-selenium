@@ -1,0 +1,25 @@
+
+
+### Eclipse ###
+.project
+.classpath
+.settings
+
+
+# User-specific stuff
+.idea
+*.iml
+*.iws
+*.ipr
+
+
+### OS ###
+Thumbs.db
+.DS_Store
+
+### Maven ###
+target/
+
+
+### Others ###
+
